@@ -12,30 +12,25 @@ This project is of interest because if it is possible to predict the quantity of
 
 To make it easier to follow the data manipulation and testing of different models each part has been broken down into a seperate notebooks. 
 
+## Notebooks for merging data and assessment
 
+- Extracting solar data from raw files and merging with historical weather data to produce a day averaged data set - [Merge_Solar_Data.ipynb](https://github.com/chriswright757/solar_charge_predictor/blob/main/Merge_Solar_Data.ipynb)
+- Assessing correlation between weather data and solar production - [Plotting_Correlation.ipynb](https://github.com/chriswright757/solar_charge_predictor/blob/main/Plotting_Correlation.ipynb)
 
 ## Models Evaluated
 
 A number of different models have been considered and tested for this data set:
 
-| Algorithm | Accuracy | Explanation |
+| Algorithm | Accuracy | Link |
 |----------|----------------|---------|
 | Polynomial Regression |   |    |
-| Decision Tree Regression |  |   |
+| Decision Tree Regression |  |  |
 | Auto-Regression |   |    |
-| SARIMA |    |  |
+| SARIMA |    |     |
 | Decision Tree Classification |    |    |
 | XGB Classifier |   |   |
 
-## Most Accurate Model Results
 
 
 
 
-- Extracting solar data from raw files and merging with historical weather data to produce a day averaged data set - [Merge_Solar_Data.ipynb]()
-- 
-
-
-## View Rendered Notebook
-
-**The notebook is best rendered in the browser using nbviewer at this [link](https://nbviewer.jupyter.org/github/chriswright757/solar_charge_predictor/blob/main/Solar%20Predictor_V2.ipynb).**
