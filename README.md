@@ -21,14 +21,13 @@ To make it easier to follow the data manipulation and testing of different model
 
 A number of different models have been considered and tested for this data set:
 
-| Algorithm | Accuracy | Link |
-|----------|----------------|---------|
-| Polynomial Regression |   |    |
-| Decision Tree Regression |  |  |
-| Auto-Regression |   |    |
-| SARIMA |    |     |
-| Decision Tree Classification |    |    |
-| XGB Classifier |   |   |
+| Algorithm |  Link |
+|----------|---------|
+| Polynomial Regression    | [Polynomial_Regression_Model.ipynb](https://github.com/chriswright757/solar_charge_predictor/blob/main/Polynomial_Regression_Model.ipynb)   
+| Decision Tree Regression |[Decision_Tree_Model.ipynb](https://github.com/chriswright757/solar_charge_predictor/blob/main/Decision_Tree_Model.ipynb)|
+| Decision Tree Classification |[Decision_Tree_Model.ipynb](https://github.com/chriswright757/solar_charge_predictor/blob/main/Decision_Tree_Model.ipynb)   |
+| XGB Classifier |[XGBoost_Model.ipynb](https://github.com/chriswright757/solar_charge_predictor/blob/main/XGBoost_Model.ipynb)|
+| Auto-Regression |[Auto_Regression_Model.ipynb](https://github.com/chriswright757/solar_charge_predictor/blob/main/Auto_Regression_Model.ipynb)|
 
 
 
